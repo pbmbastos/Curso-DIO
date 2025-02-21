@@ -12,3 +12,17 @@ F:\Pierre\Programação\Curso DIO\Projetos\Exemplo 1\obj\Debug\net9.0\refint\Exe
 F:\Pierre\Programação\Curso DIO\Projetos\Exemplo 1\obj\Debug\net9.0\Exemplo 1.pdb
 F:\Pierre\Programação\Curso DIO\Projetos\Exemplo 1\obj\Debug\net9.0\Exemplo 1.genruntimeconfig.cache
 F:\Pierre\Programação\Curso DIO\Projetos\Exemplo 1\obj\Debug\net9.0\ref\Exemplo 1.dll
+F:\Pierre\Programação\Github\Curso DIO\Projetos\Exemplo 1\bin\Debug\net9.0\Exemplo 1.exe
+F:\Pierre\Programação\Github\Curso DIO\Projetos\Exemplo 1\bin\Debug\net9.0\Exemplo 1.deps.json
+F:\Pierre\Programação\Github\Curso DIO\Projetos\Exemplo 1\bin\Debug\net9.0\Exemplo 1.runtimeconfig.json
+F:\Pierre\Programação\Github\Curso DIO\Projetos\Exemplo 1\bin\Debug\net9.0\Exemplo 1.dll
+F:\Pierre\Programação\Github\Curso DIO\Projetos\Exemplo 1\bin\Debug\net9.0\Exemplo 1.pdb
+F:\Pierre\Programação\Github\Curso DIO\Projetos\Exemplo 1\obj\Debug\net9.0\Exemplo 1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Pierre\Programação\Github\Curso DIO\Projetos\Exemplo 1\obj\Debug\net9.0\Exemplo 1.AssemblyInfoInputs.cache
+F:\Pierre\Programação\Github\Curso DIO\Projetos\Exemplo 1\obj\Debug\net9.0\Exemplo 1.AssemblyInfo.cs
+F:\Pierre\Programação\Github\Curso DIO\Projetos\Exemplo 1\obj\Debug\net9.0\Exemplo 1.csproj.CoreCompileInputs.cache
+F:\Pierre\Programação\Github\Curso DIO\Projetos\Exemplo 1\obj\Debug\net9.0\Exemplo 1.dll
+F:\Pierre\Programação\Github\Curso DIO\Projetos\Exemplo 1\obj\Debug\net9.0\refint\Exemplo 1.dll
+F:\Pierre\Programação\Github\Curso DIO\Projetos\Exemplo 1\obj\Debug\net9.0\Exemplo 1.pdb
+F:\Pierre\Programação\Github\Curso DIO\Projetos\Exemplo 1\obj\Debug\net9.0\Exemplo 1.genruntimeconfig.cache
+F:\Pierre\Programação\Github\Curso DIO\Projetos\Exemplo 1\obj\Debug\net9.0\ref\Exemplo 1.dll

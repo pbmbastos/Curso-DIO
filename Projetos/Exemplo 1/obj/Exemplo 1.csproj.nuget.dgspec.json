@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Pierre\\Programação\\Cursos\\Curso DIO\\Projetos\\Exemplo 1\\Exemplo 1.csproj": {}
+    "F:\\Pierre\\Programação\\Github\\Curso DIO\\Projetos\\Exemplo 1\\Exemplo 1.csproj": {}
   },
   "projects": {
-    "F:\\Pierre\\Programação\\Cursos\\Curso DIO\\Projetos\\Exemplo 1\\Exemplo 1.csproj": {
+    "F:\\Pierre\\Programação\\Github\\Curso DIO\\Projetos\\Exemplo 1\\Exemplo 1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Pierre\\Programação\\Cursos\\Curso DIO\\Projetos\\Exemplo 1\\Exemplo 1.csproj",
+        "projectUniqueName": "F:\\Pierre\\Programação\\Github\\Curso DIO\\Projetos\\Exemplo 1\\Exemplo 1.csproj",
         "projectName": "Exemplo 1",
-        "projectPath": "F:\\Pierre\\Programação\\Cursos\\Curso DIO\\Projetos\\Exemplo 1\\Exemplo 1.csproj",
+        "projectPath": "F:\\Pierre\\Programação\\Github\\Curso DIO\\Projetos\\Exemplo 1\\Exemplo 1.csproj",
         "packagesPath": "C:\\Users\\Pierre\\.nuget\\packages\\",
-        "outputPath": "F:\\Pierre\\Programação\\Cursos\\Curso DIO\\Projetos\\Exemplo 1\\obj\\",
+        "outputPath": "F:\\Pierre\\Programação\\Github\\Curso DIO\\Projetos\\Exemplo 1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pierre\\AppData\\Roaming\\NuGet\\NuGet.Config"
