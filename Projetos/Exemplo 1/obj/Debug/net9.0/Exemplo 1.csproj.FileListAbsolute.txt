@@ -26,3 +26,4 @@ F:\Pierre\Programação\Github\Curso DIO\Projetos\Exemplo 1\obj\Debug\net9.0\ref
 F:\Pierre\Programação\Github\Curso DIO\Projetos\Exemplo 1\obj\Debug\net9.0\Exemplo 1.pdb
 F:\Pierre\Programação\Github\Curso DIO\Projetos\Exemplo 1\obj\Debug\net9.0\Exemplo 1.genruntimeconfig.cache
 F:\Pierre\Programação\Github\Curso DIO\Projetos\Exemplo 1\obj\Debug\net9.0\ref\Exemplo 1.dll
+F:\Pierre\Programação\Github\Curso DIO\Projetos\Exemplo 1\obj\Debug\net9.0\Exemplo 1.sourcelink.json
